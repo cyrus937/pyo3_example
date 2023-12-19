@@ -15,3 +15,4 @@ if __name__ == '__main__':
     while True:
         print("Waiting")
         time.sleep(2)
+        myClass.check()
